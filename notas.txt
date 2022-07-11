@@ -1,0 +1,11 @@
+// Programacion orientada a objetos
+
+-> Una forma de programar q nos permite estructurar de una mejor forma nuestro codigo y seguir unas mejores prácticas, dividiendolos en clases, objetos o entidades
+
+// TypeScript
+
+-> 85% de JS normal, el transpilador convierte a JS el código para q sea entendible para los navegadores. 
+Tiene un tipado fuerte, podemos indicar si una variable es string, booleano, numeral 
+.ts -> formato de archivos
+Este lenguaje se utiliza dentro de angular para trabajar dentro de el.
+ 
